@@ -1,4 +1,4 @@
-# Noted.ly Frontend
+# Noted.ly Demo Frontend
 
 Noted.ly is a minimal app for writing and sharing notes in HTML, Markdown or plaintext format.
 It has tag and role-based authorization for safely distributing and managing documents.
